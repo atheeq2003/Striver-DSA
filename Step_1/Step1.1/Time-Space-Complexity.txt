@@ -1,0 +1,3 @@
+The Notes for Time and Space Complexity can be found on this website (A2Z DSA Striver Sheet)
+Link --> https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/ 
+Make sure to refer this for revision and basic idea on how Time and Space complexity works.
