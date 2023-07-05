@@ -10,8 +10,8 @@ Output: 1
 Example 2:
 Input: Integer
 Output: 4
-*/
 
+*/
 class Solution {
   public:
     int dataTypeSize(string str) {
