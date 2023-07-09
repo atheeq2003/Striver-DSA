@@ -19,7 +19,6 @@ void print15(int n)
     cout << endl;
   }
 }           
-
 int main()
 {
   int n;
