@@ -1,10 +1,10 @@
 /*
-  Pattern 15
-  A B C D E 
-  A B C D 
-  A B C
-  A B
+  Pattern 16
   A
+  B B
+  C C C
+  D D D D
+  E E E E E
 */
 #include<bits/stdc++.h>
 using namespace std;
