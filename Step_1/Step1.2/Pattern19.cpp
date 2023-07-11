@@ -1,10 +1,15 @@
 /*
-  Pattern 19
-  E
-  DE
-  CDE
-  BCDE
-  ABCDE
+Pattern 19
+**********
+****  ****
+***    ***
+**      **
+*        *
+*        *
+**      **
+***    ***
+****  ****
+**********
 */
 #include<bits/stdc++.h>
 using namespace std;
