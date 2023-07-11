@@ -1,9 +1,10 @@
 /*
   Pattern 18
-     A     
-    ABA    
-   ABCBA   
-  ABCDCBA  
+  E
+  DE
+  CDE
+  BCDE
+  ABCDE
 */
 #include<bits/stdc++.h>
 using namespace std;
