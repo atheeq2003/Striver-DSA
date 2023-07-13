@@ -1,0 +1,4 @@
+1.Time complexities
+2.Loops
+3.Patterns
+4.Conditions
